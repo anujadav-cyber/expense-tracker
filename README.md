@@ -25,4 +25,4 @@ python expense_tracker.py
 - Version control with Git & GitHub
 
 ## Author
-Your Name — [github.com/your-username](https://github.com/your-username)
+Anuksha V Jadav — https://github.com/anujadav-cyber
